@@ -1,0 +1,134 @@
+
+
+FORUM RULES AND STRUCTURE:
+
+
+
+---------------------------------------------------------------------
+
+# **Welcome to the Project Ideas Forum!**  
+
+This forum is for sorting and refining project ideas before they become full projects. Every idea will go through a discussion phase before being categorized.  
+
+
+
+## **:tools: Thread Lifecycle**  
+
+- **Open Discussion** – Actively discussed, anyone can contribute.  
+
+- **Locked** – No further replies allowed, but still visible.  
+
+- **Closed** – Moved to “Older Posts” once categorized or archived.  
+
+
+
+---------------------------------------------------------------------
+
+## **:label: Tags & Their Meanings**  
+
+*(Use these to categorize your idea—admins will adjust if needed.)*  
+
+
+
+### **Status & Moderation Tags (Admin-Only)**  
+
+:white_check_mark: **Open Discussion** – Idea is being actively discussed.  
+
+:x: **Closed** – Moved, rejected, or archived.  
+
+:arrows_counterclockwise: **Duplicate** – Similar idea exists; linked to original.  
+
+:construction: **Under-Development** – Actively being worked on but hasn’t been categorized yet.  
+
+:star: **Flagship Project** – High-priority or significant project.  
+
+
+
+### **Priority Tags**  
+
+:star: **Flagship Project** – High-priority or major undertaking. *(Admin-Only)*  
+
+:bulb: **Conceptual** – Just an idea, not fully developed.  
+
+
+
+### **Project Scope Tags**  
+
+:pick: **Minecraft** – Any Minecraft-related project.  
+
+:robot: **AI & Automation** – AI-driven tools, machine learning, or automation.  
+
+:wrench: **Plugin Development** – Custom plugin-based projects.  
+
+:tools: **Game Modding** – Any modifications to existing games.  
+
+:scroll: **Scripting** – Bots, macros, or automation scripts.  
+
+:zap: **Utility Software** – General-purpose tools that don’t fit into mods/plugins.  
+
+:test_tube: **Experimental** – “Is this possible?” projects.  
+
+
+
+### **Technical Tags (For Coding Projects)**  
+
+:coffee: **Java**  
+
+:globe_with_meridians: **JavaScript**  
+
+:jigsaw: **JSM** (JavaScript Macro)  
+
+:roll_of_paper: **Skript** (.sk files for Minecraft Skript plugin)  
+
+:snake: **Python**  
+
+:link: **API-Based** – Uses external APIs heavily.  
+
+:floppy_disk: **Database-Heavy** – SQLite, MySQL, or NoSQL-based.  
+
+---------------------------------------------------------------------
+
+
+
+
+
+# **:pushpin: Additional Sections for Clarity**  
+
+
+
+## **:round_pushpin: How Ideas Become Projects**  
+
+### **1. Discussion Phase:**  
+
+- Users refine and expand on the idea.  
+
+- If interest grows, it gets flagged as **In Progress**.  
+
+
+
+### **2. Admin Review:**  
+
+- If the idea has enough potential, it gets a dedicated project category.  
+
+- **Admins will create the necessary project channels and sort it under Public or Private Projects.**  
+
+
+
+### **3. Final Thread Lock & Close:**  
+
+- The last message in the thread will indicate where the idea has moved.  
+
+- Example: *"Thread locked. Project moved to <#category-link>."*  
+
+
+
+---------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

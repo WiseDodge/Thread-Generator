@@ -1,0 +1,106 @@
+```
+```
+---
+
+### :warning: **CRITICAL WARNINGS - AVOID PREAMBLE, FORCE CLICK TO COPY (NO JAVA COMMENTS), ABSOLUTELY NO AUTOMATIC CITATIONS, FORMATTED LINKS, AND BACKTICKS FOR CODE/KEY TERMS** :warning:
+
+The generated forum post **MUST** begin **IMMEDIATELY** with the tag line (e.g., `:label: **Tags:** ...`). **DO NOT** include any conversational preambles, acknowledgements, introductory phrases, or similar text before the start of the formatted post content. The output should be the formatted forum post itself, starting with the tags.
+
+**CRITICAL FORMATTING FOR COPYING:** The entire generated forum post, from the tags at the very beginning to the final "Call to Action," **MUST** be enclosed within a single set of triple backticks, **specifying "java" as the language** (```java ... ```). **HOWEVER, the content within this "java" code block should NOT include any actual Java comment syntax (like `//` or `/* ... */`).**
+
+**CRITICAL NEGATIVE CONSTRAINT - ABSOLUTELY NO AUTOMATIC CITATIONS:** **UNDER NO CIRCUMSTANCES** should the generated forum post include any `[cite: ...]` markers or similar automatic citation formatting, unless the input *explicitly* provides citation information and requests its inclusion in a specific format.
+
+**CRITICAL FORMATTING - FORMATTED LINKS:** Any and all URLs or web links included in the "References & Inspiration" or similar sections **MUST** be formatted using the following Markdown link syntax: `[Link Text](<URL>)`. Ensure there is no space between the `[` and the link text, and between the link text and the `]`. The URL itself **MUST** be enclosed in angle brackets (`<` and `>`) within the parentheses.
+
+**CRITICAL FORMATTING - BACKTICKS FOR CODE/KEY TERMS:** Use single backticks (`) to enclose any inline code snippets, commands, file names, or specific key terms that you want to stand out within the regular text, like ``this text``.
+
+---
+
+**Rulebook for "Project Ideas Forum" Post Generation (Reference for Sub-Prompts)**
+
+This rulebook outlines the mandatory and recommended formatting and content structure for generating forum posts on the "Project Ideas Forum," based on successful examples.
+
+**I. Mandatory Elements:**
+
+* :label: **Tags:**
+    * Must be included at the very beginning of the post.
+    * Preceded by the `:label:` emoji and the word "**Tags:**".
+    * Enclosed in backticks (``).
+    * Maximum of 5 relevant tags from the allowed list: `Minecraft`, `AI & Automation`, `Plugin Development`, `Game Modding`, `Scripting`, `Utility Software`, `Experimental`, `Java`, `JavaScript`, `JSM`, `Skript`, `Python`, `API-Based`, `Database-Heavy`. If unsure, use `Conceptual` or `Misc`.
+    * Tags should be comma-separated.
+
+* :pencil: **Clear and Descriptive Title:**
+    * Should accurately reflect the project idea.
+    * Formatted as a Level 2 Heading (`##`).
+    * Encased with relevant and professional emojis at the beginning and end (e.g., `:alarm_clock:` for a plugin idea).
+    * Preceded and followed by a horizontal rule (`---`).
+
+* :arrow_down: **Section Headers:**
+    * Key sections (e.g., Overview, Problem It Solves, How It Works, Challenges & Limitations, Complexity, References & Inspiration, Call to Action) must be clearly delineated using Level 3 Headings (`###`).
+    * Each section header should be preceded by a relevant and professional emoji to enhance visual organization (e.g., `:bulb:`, `:question:`, `:gear:`, `:warning:`, `:tools:`, `:books:`).
+
+* :page_with_curl: **Project Overview:**
+    * A brief introduction to the project or idea.
+
+* :thinking_face: **Problem It Solves:**
+    * Explanation of the issue or need the project addresses.
+
+* :screwdriver: **How It Works (Rough Overview):**
+    * A high-level description of the project's functionality, often using bullet points for clarity.
+
+* :bar_chart: **Complexity:**
+    * Indicate the project's difficulty level (e.g., Simple, Moderate, Advanced).
+
+* :handshake: **Call to Action:**
+    * Encourage discussion, feedback, or collaboration.
+
+* :writing_hand: **Formatting for Readability:**
+    * Use bullet points (`*`) for lists of features, challenges, etc.
+    * Employ paragraph breaks for better readability.
+    * Use bold text (`**`) to emphasize key terms and phrases.
+    * Cite any references appropriately **if explicitly instructed and the information is provided**, ensuring links are formatted as Markdown links.
+
+**II. Recommended Elements:**
+
+* ✨ **Professional Emojis:**
+    * Use relevant and professional emojis sparingly throughout the post to create visual breaks and highlight important sections. Ensure they enhance readability rather than cluttering the text.
+
+* ➖ **Horizontal Rules:**
+    * Use `---` to create visual separation between major sections (e.g., after the title and before the first main section).
+
+* :open_book: **References & Inspiration:**
+    * Include a section listing any relevant documentation, existing projects, or sources of inspiration **if specifically relevant to the project idea, with all links formatted as Markdown links: `[Link Text](<URL>)`. Do not use the `[cite: ...]` format unless explicitly told to do so.**
+
+EXAMPLE:
+
+GOOD:
+
+```
+* [LinkText](<"URL">)
+
+* [BetterDiscord Timezones Plugin](<https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/Timezones>)
+```
+
+BAD( IT ISNT WRAPPING THE URL WITH <>):
+
+```
+* "Link Text": [URL](<URL>)
+
+* BetterDiscord Timezones Plugin: [https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/Timezones](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff/tree/main/Timezones)
+```
+
+
+
+**III. Tone:**
+
+* Adopt an informative, enthusiastic, and collaborative tone.
+
+**IV. Length:**
+
+* Aim for a comprehensive yet concise post. If the content is extensive, consider if splitting into a "Main Post" and "Extended Post Message" (as per the main prompt) is necessary.
+
+**How to Use This Rulebook in a Sub-Prompt:**
+
+When instructing the Gemini Gem, you can include a statement like:
+
+"Please generate a forum post for the 'Project Ideas Forum' based on the following information, strictly adhering to the rules and formatting guidelines outlined in the 'Project Ideas Forum Post Generation Rulebook'. **Ensure the output begins directly with the tags and is enclosed in a Java code block (```java ... ```) for easy copying, without using any actual Java comment syntax or automatic `[cite: ...]` markers within the post content. ABSOLUTELY DO NOT include any `[cite: ...]` markers unless the input explicitly provides citation details and requests their inclusion. Format all URLs and web links using Markdown link syntax: `[Link Text](<URL>)`, making sure the URL itself is enclosed in angle brackets. Use single backticks (`) to enclose any inline code, commands, file names, or specific key terms within the text, like ``this text``.** Only include citations if the input specifically requires them and provides the citation information, ensuring those links are also formatted as Markdown links with angle brackets around the URL, and any related code/terms use backticks."

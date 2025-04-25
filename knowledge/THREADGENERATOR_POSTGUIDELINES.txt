@@ -1,0 +1,74 @@
+
+------------------------------------
+
+
+
+**:pencil: Post Guidelines**
+
+
+
+**:one: Use a Clear & Descriptive Title**  
+
+**Bad:** “Cool idea”  
+
+**Good:** “Minecraft Plugin: Custom Fluid Physics”  
+
+
+
+
+
+**:two: Select Relevant Tags**  
+
+- **Category tags** (Minecraft, AI, Plugin, etc.)  
+
+- If unsure, use **Misc**; admins will adjust.  
+
+
+
+
+
+**:three: Describe Your Idea in Detail**  
+
+- What problem does it solve?
+
+- How does it work? *(Rough overview)*  
+
+- Challenges & Limitations?
+
+- How complex is it? *(Simple, Moderate, Advanced?)*  
+
+
+
+
+
+**:four: Check for Duplicates**  
+
+- Before posting, __search the forum__ to see if a similar idea already exists.  
+
+- If an idea is a slight variation, reply to the existing thread instead.  
+
+- If your idea is flagged as a **Duplicate**, an admin will link you to the original discussion.  
+
+
+
+**:five: Keep Discussion Focused**  
+
+- Stay on-topic; brainstorm __solutions__ rather than derailing the idea.  
+
+- Keep discussions constructive; vague “this won’t work” comments won’t help.  
+
+
+
+------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
