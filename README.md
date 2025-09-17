@@ -1,4 +1,5 @@
 # Gemini Thread Generator for Brainstorm Forums ✨
+![GitHub last commit](https://img.shields.io/github/last-commit/WiseDodge/Thread-Generator)
 
 **Generate engaging and well-formatted thread starters for your brainstorm forums with this custom Gemini Gem!** 🚀
 
@@ -67,3 +68,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## 💬 Feedback
 
 We'd love to hear your thoughts! Share any feedback or suggestions by creating an issue in this repository. 🙏
+
